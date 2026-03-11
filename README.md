@@ -1,6 +1,5 @@
 # Roll-the-dice
 [Play from here]https://hemanandinikanna006-dev.github.io/Roll-the-dice/
-<img width="1901" height="903" alt="p2" src="https://github.com/user-attachments/assets/35d6bc70-5aaf-4f72-85e0-6be74aea7983" />
 
 A high-energy, neon-themed dice game built with Vanilla JavaScript. 
 This project uses mathematical randomization to determine a winner between two users, featuring a vibrant linear gradient background and glowing UI elements.
@@ -33,3 +32,6 @@ Plaintext
 └── assets/        # Folder containing dice1.png through dice6.png
 ```
 # A Glimpse of the Game:
+<img width="1901" height="903" alt="p2" src="https://github.com/user-attachments/assets/35d6bc70-5aaf-4f72-85e0-6be74aea7983" />
+<img width="1896" height="903" alt="p3" src="https://github.com/user-attachments/assets/292a2114-23b7-4bae-a916-4078a972c2b6" />
+<img width="1894" height="905" alt="p1" src="https://github.com/user-attachments/assets/55690449-6971-427a-bf99-cf5e6138955d" />
